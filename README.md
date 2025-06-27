@@ -1,6 +1,4 @@
-# CounterMVVM_app
-
-# My Project 🚀
+# CounterMVVM_app 🚀
 
 This is a simple app that does count.
 
@@ -13,7 +11,7 @@ This is a simple app that does count.
 2. Open in Android Studio
 3. Press Run ▶️
 
-
+## Implementation
 Applying the concept of MVVM to build a simple counter application with the ability to adapt the changing of the view in android between potrait and landscape mode. 
 
 The application is build with integration of three files namely main, viewModel and Model.
