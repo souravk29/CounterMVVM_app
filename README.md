@@ -20,3 +20,4 @@ Each with specific task of UI layer, Logic layer and Data layer respectively.
 This app retains its data after change in the view modes ( potrait/landscape ) in android.
 
 
+## Preview
