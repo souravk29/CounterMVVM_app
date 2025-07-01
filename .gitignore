@@ -1,1 +1,29 @@
+# Gradle
+.gradle/
+build/
+*.iml
+
+# Local configuration
+local.properties
+*.keystore
+
+# IntelliJ / Android Studio
+.idea/
+*.iws
+*.ipr
+*.iml
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Firebase
+.firebase/
+.firebase-debug.log
+.firebaserc
+
+# Environment variables
+.env
 
