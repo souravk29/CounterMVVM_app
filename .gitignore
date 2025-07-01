@@ -1,0 +1,28 @@
+# === Android ===
+.gradle/
+local.properties
+*.iml
+.idea/
+build/
+captures/
+.externalNativeBuild
+.cxx/
+*.apk
+*.ap_
+
+# === Kotlin ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === Firebase ===
+.firebase/
+.firebaserc
+.firebase-debug.log
+
+# === OS-specific ===
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
